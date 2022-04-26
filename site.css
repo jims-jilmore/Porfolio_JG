@@ -1,0 +1,10 @@
+#wolf-bg-cont{
+    height: 575px;
+    width: 575px;
+}
+#wolf-bg{
+    max-height: 100%;
+    max-width: 100%;
+    margin: auto;
+    display: block;
+}
